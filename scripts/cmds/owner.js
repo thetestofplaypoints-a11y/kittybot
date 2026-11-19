@@ -23,7 +23,7 @@ module.exports = {
 │ 🎂 Aɢᴇ        : 17+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : 💍 𝗠𝗮𝗿𝗿𝗶𝗲𝗱 ✨
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : ꜱᴛᴜᴅᴇɴᴛ📚
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : SSC -2026
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : SSC -2025
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐊𝐢𝐬𝐡𝐨𝐫𝐞𝐠𝐚𝐧𝐣
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📘 Facebook  : https://www.facebook.com/share/1NA3gBfCtw/
