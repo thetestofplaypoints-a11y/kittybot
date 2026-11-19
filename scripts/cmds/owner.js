@@ -18,17 +18,17 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : ᴀʜᴍᴇᴅ Sᴜᴍᴏɴ 亗
-│ 🧸 Nɪᴄᴋ       : Sᴜᴍᴏɴ
-│ 🎂 Aɢᴇ        : 19+
-│ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
-│ 🎓 Pʀᴏғᴇssɪᴏɴ : Job
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : SSC - 2024
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : ᴍʏᴍᴇɴsɪɴɢʜ
+│ 👤 Nᴀᴍᴇ       : ⏤͟͟͞͞𝐎ᴡɴᴇʀ~𝐅ᴀʜᴀᴅ亗
+│ 🧸 Nɪᴄᴋ       : 𝐅ᴀʜᴀᴅ
+│ 🎂 Aɢᴇ        : 17+
+│ 💘 Rᴇʟᴀᴛɪᴏɴ : 💍 𝗠𝗮𝗿𝗿𝗶𝗲𝗱 ✨
+│ 🎓 Pʀᴏғᴇssɪᴏɴ : ꜱᴛᴜᴅᴇɴᴛ📚
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : SSC -2026
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐊𝐢𝐬𝐡𝐨𝐫𝐞𝐠𝐚𝐧𝐣
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : fb.com/AhmedSumon8790 
-│ 💬 Messenger: m.me/61576385979018 
-│ 📞 WhatsApp  : wa.me/01615197003
+│ 📘 Facebook  : https://www.facebook.com/share/1NA3gBfCtw/
+│ 💬 Messenger: m.me/61596141283707
+│ 📞 WhatsApp  : 01747374686
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
@@ -36,7 +36,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/1G4ZhU7.jpeg";
+    const imgLink = "https://imgur.com/a/kxlV3zg";
 
     const send = () => {
       api.sendMessage(
